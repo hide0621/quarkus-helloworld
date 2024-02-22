@@ -1,3 +1,15 @@
+**quarkus**についてはこちらの記事を参照しています
+
+[Quarkus公式](https://ja.quarkus.io/)
+
+[Quarkus+CloudRunで作る爆速アプリケーション](https://qiita.com/satoshihiraishi/items/3cbc0c0323066029c5a5)
+
+[Quarkusの「入門」をやってみた](https://qiita.com/kijuky/items/15b78a0a8ce96ceac14a)
+
+[Kotlin + Quarkus のローカル開発用Docker環境を構築する](https://nextat.co.jp/staff/archives/272)
+
+---
+
 # quarkusでプロジェクトを作る際のコマンド
 
 例えば、言語は`Kotlin`、ビルドツールは`gradle`といった条件でquarkusプロジェクトを作りたいなら、
