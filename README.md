@@ -1,3 +1,25 @@
+# quarkusでプロジェクトを作る際のコマンド
+
+例えば、言語は`Kotlin`、ビルドツールは`gradle`といった条件でquarkusプロジェクトを作りたいなら、
+
+`quarkus create app quarkus-helloworld --kotlin --gradle`
+
+このようにコマンドを書き、実行する
+
+以下、解説すると...
+
+・　`quarkus create app`：Quarkusフレームワークを使用して新しいアプリケーションを作成するコマンドです。
+
+・　`quarkus-helloworld`：新しく作成されるアプリケーションの名前です。
+
+・　`--kotlin`：このオプションを指定すると、アプリケーションのプログラミング言語として`Kotlin`が選択されます。
+
+・　`--gradle`：このオプションを指定すると、ビルドツールとして`Gradle`が選択されます。
+
+上記のような意味を持つコマンドになる。
+
+---
+
 # quarkus-helloworld
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
